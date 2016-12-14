@@ -1,5 +1,5 @@
---temp-output:C:\projects\DNCore\MvcMovie\src\MvcMovie\obj\Debug\netcoreapp1.0\
---out:C:\projects\DNCore\MvcMovie\src\MvcMovie\bin\Debug\netcoreapp1.0\MvcMovie.dll
+--temp-output:C:\Users\xxy3865\git\MvcMovies\src\MvcMovie\obj\Debug\netcoreapp1.0\
+--out:C:\Users\xxy3865\git\MvcMovies\src\MvcMovie\bin\Debug\netcoreapp1.0\MvcMovie.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -196,8 +196,8 @@
 --reference:C:\Users\xxy3865\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\xxy3865\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\xxy3865\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"C:\projects\DNCore\MvcMovie\src\MvcMovie\obj\Debug\netcoreapp1.0\MvcMoviedotnet-compile.deps.json",MvcMovie.deps.json
-C:\projects\DNCore\MvcMovie\src\MvcMovie\Program.cs
-C:\projects\DNCore\MvcMovie\src\MvcMovie\Startup.cs
-C:\projects\DNCore\MvcMovie\src\MvcMovie\Controllers\HelloWorldController.cs
-C:\projects\DNCore\MvcMovie\src\MvcMovie\Controllers\HomeController.cs
+--resource:"C:\Users\xxy3865\git\MvcMovies\src\MvcMovie\obj\Debug\netcoreapp1.0\MvcMoviedotnet-compile.deps.json",MvcMovie.deps.json
+C:\Users\xxy3865\git\MvcMovies\src\MvcMovie\Program.cs
+C:\Users\xxy3865\git\MvcMovies\src\MvcMovie\Startup.cs
+C:\Users\xxy3865\git\MvcMovies\src\MvcMovie\Controllers\HelloWorldController.cs
+C:\Users\xxy3865\git\MvcMovies\src\MvcMovie\Controllers\HomeController.cs
